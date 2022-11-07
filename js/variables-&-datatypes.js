@@ -17,5 +17,12 @@ let c = a + b;
 //For intigers, floting points
 let myAge = 22;
 let pi = 3.14;
-//For String
+//String
 let name = 'Aditya'
+//Booleans
+let iAmAlive = true;
+//Arrays
+let myNameArray = ['Aditya','Atharva','t3d'];
+let myNumberArrya = [10,20,30];
+//Objects
+let dog = {name:'Spot', breed:'Dalmatian'};
