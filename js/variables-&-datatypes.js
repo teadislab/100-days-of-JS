@@ -26,3 +26,4 @@ let myNameArray = ['Aditya','Atharva','t3d'];
 let myNumberArrya = [10,20,30];
 //Objects
 let dog = {name:'Spot', breed:'Dalmatian'};
+//Finding String
