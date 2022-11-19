@@ -25,5 +25,17 @@ let iAmAlive = true;
 let myNameArray = ['Aditya','Atharva','t3d'];
 let myNumberArrya = [10,20,30];
 //Objects
-let dog = {name:'Spot', breed:'Dalmatian'};
+let dog = {name:'Spot', breed:'Dalmatian'}; 
 //Finding String
+const browserType = 'mozilla';
+browserType.length;
+//Retrieving a specific string character
+browserType[0];
+//Testing if a string contains a substring
+const browserType = 'mozilla';
+
+if (browserType.includes('zilla')) {
+  console.log('Found zilla!');
+} else {
+  console.log('No zilla here!');
+}
