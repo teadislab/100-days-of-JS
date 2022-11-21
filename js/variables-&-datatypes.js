@@ -32,10 +32,15 @@ browserType.length;
 //Retrieving a specific string character
 browserType[0];
 //Testing if a string contains a substring
-const browserType = 'mozilla';
-
 if (browserType.includes('zilla')) {
   console.log('Found zilla!');
 } else {
   console.log('No zilla here!');
 }
+//Chaning Case
+const radData = 'My NaMe Is TeSt'
+console.log(radData.toLowerCase());
+console.log(radData.toUpperCase());
+//Updating parts of a string
+const type = "brave";
+const updated = type.replace('br','ac')
