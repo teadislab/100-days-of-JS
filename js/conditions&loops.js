@@ -5,6 +5,19 @@ if (condition) {
     /* run some other code instead */
   }
 
+//Nested if-else
+if(condition){
+    if (condition) {
+        
+    }
+}
+else{
+    if (condition) {
+        
+    } else {
+        
+    }
+}
 //Switch Statements
 switch (expression) {
   case choice1:
