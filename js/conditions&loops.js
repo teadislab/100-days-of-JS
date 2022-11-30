@@ -37,3 +37,4 @@ switch (expression) {
 //Ternary operator
 condition ? run this code : run this code instead
 
+//scrap
