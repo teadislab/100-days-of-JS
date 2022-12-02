@@ -31,10 +31,10 @@ switch (expression) {
   // include as many cases as you like
 
   default:
-    actually, just run this code
+    //actually, just run this code
 }
 
 //Ternary operator
-condition ? run this code : run this code instead
+condition ? /*run this code*/ : /*run this code instead*/
 
 //scrap

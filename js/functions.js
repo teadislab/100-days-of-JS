@@ -2,3 +2,5 @@
 function addOne(input) {
     return input + 1;
 }
+
+addOne(10);
