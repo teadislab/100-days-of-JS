@@ -22,4 +22,7 @@ else if (operator == '*') { // use * (multiplication) operator to multiply two n
 else {  
     result = number1 / number2; // use / (division) operator to divide two numbers  
 }  
-window.alert(" Result is" + result);  
+window.alert(" Result is" + result); 
+
+//this is a trash comment 
+//cause strak ``
