@@ -24,5 +24,3 @@ else {
 }  
 window.alert(" Result is" + result); 
 
-//this is a trash comment 
-//cause strak ``
