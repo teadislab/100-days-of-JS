@@ -1,5 +1,8 @@
 function (top, max) {
  while(top<max){
-    w
+    for(let i =0; i<10; i++){
+
+    }
+     
  } 
 }
